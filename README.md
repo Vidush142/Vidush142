@@ -1,13 +1,16 @@
 # 👋 Hi, I'm Vidushkumar Arulkumar
 
-Welcome to my GitHub profile! I'm a **Computer Science graduate** passionate about **software development**, **data analysis**, and **machine learning**. I enjoy tackling complex problems, building scalable solutions, and constantly learning new technologies. Here, you'll find some of the exciting projects I've worked on, using technologies like **Python**.
+I'm a Data Engineer with 3+ years of professional experience across **data engineering** and software development. Most recently, I spent 15 months at **NatWest**, where I focused on building, optimizing, and securing multi-layer data environments within a **Snowflake Medallion Architecture**.
+I specialize in constructing reliable data pipelines, automated testing, and turning messy semi-structured data into production-ready analytical assets.
 
 ## 🚀 Skills
-- **Programming Languages**: Python
-- **Data Analysis**: Python (Pandas, NumPy), PySpark, SQL
-- **Software Development**: Object-Oriented Programming, Test-Driven Development, Git, Agile Methodology
-- **Databases**: PostgreSQL, MongoDB
-- **Other Tools**: Jupyter Notebooks
+- **Data Engineering**: Snowflake (Medallion Architecture, Stored Procedures, JSON Parsing), Airflow (DAG Design),
+Apache Spark, Hadoop, NiFi
+- **Databases**: Snowflake, PostgreSQL, MongoDB.
+- **Programming & Testing**: Python, SQL (Advanced), Pytest, Test-Driven Development (TDD).
+- **Cloud & Infrastructure**: AWS (S3, Glue, EC2), Linux, Git/GitLab, CI/CD. Microsoe Azure (Azure Blob Storage, Azure
+VMs, Azure SQL Database)
+- **Data Visualisa2on**: Tableau, PowerBI, Microsoe Excel.
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/v-arulkumar) 
